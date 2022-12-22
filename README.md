@@ -40,8 +40,11 @@ font-size:20px;
     - name4  
     - name5
 
-- name6
+- name6      
 
+[learninggit](https://docs.google.com/document/d/1laHFvZzlBAyJPdUZuZ9_yNv9O-m70axE/edit#heading=h.5m5imr28f1df)
 
-
+```html
+<img src = "image1.png">
+```
 
