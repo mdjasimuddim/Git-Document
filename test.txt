@@ -1,0 +1,2 @@
+Working directory ->  stagging area -> local repo. -> remote repo.
+Blog-Website      ->   git add      -> git commit   -> push
